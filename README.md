@@ -102,9 +102,10 @@ If you prefer using Docker, follow these steps to run the application:
 
 ## Usage
 1. **Login:** The application will automatically log into the target website using the provided credentials.
-2. **Scraping:** After login, the app will scrape data such as product names, prices, and descriptions from the website.
-3. **Classification and Prediction:** The app will classify the scraped data into predefined categories and predict price variations using machine learning.
-4. **Data Storage:** All scraped data will be stored in the PostgreSQL database.
+   ![DataRaptor Login](./assets/logo.png)
+3. **Scraping:** After login, the app will scrape data such as product names, prices, and descriptions from the website.
+4. **Classification and Prediction:** The app will classify the scraped data into predefined categories and predict price variations using machine learning.
+5. **Data Storage:** All scraped data will be stored in the PostgreSQL database.
 
 ## Testing
 To test the application, follow these steps:
