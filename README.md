@@ -121,3 +121,4 @@ We welcome contributions! Please create a pull request or open an issue if you'd
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
