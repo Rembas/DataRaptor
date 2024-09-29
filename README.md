@@ -1,5 +1,7 @@
 # DataRaptor
 
+![DataRaptor Logo](./assets/logo.png)
+
 DataRaptor is an intelligent web scraping tool designed to automate interactions with websites that lack APIs. It logs into websites, scrapes data, classifies it, predicts trends like price variations, and stores the extracted information into a PostgreSQL database.
 
 ## Features
