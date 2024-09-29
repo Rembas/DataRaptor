@@ -29,7 +29,7 @@ DataRaptor is an intelligent web scraping tool designed to automate interactions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dataraptor.git
+   git clone https://github.com/Rembas/dataraptor.git
    cd dataraptor
 
 2. Install Python dependencies:
